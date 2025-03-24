@@ -65,7 +65,7 @@ print(predictions)
 | MAE     | 24.73 |
 | R² Score | 0.97 |
 
-![Deskripsi Gambar](path/gambar.png)
+![Deskripsi Gambar](https://github.com/baloerrr04/sklearn-linear-regression-ads/blob/main/visualization.png)
 
 
 ## 📜 Lisensi
