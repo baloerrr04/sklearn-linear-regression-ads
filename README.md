@@ -1,4 +1,4 @@
-# 📊 Model Regresi Linear untuk Prediksi Pelanggan
+# 📊 Model Regresi Linear untuk Prediksi Pelanggan (Dummy Data)
 
 ## 📌 Ringkasan Proyek
 Proyek ini menerapkan **model Regresi Linear** menggunakan **Scikit-Learn** untuk memprediksi jumlah pelanggan berdasarkan anggaran iklan yang dikeluarkan untuk **TV, Radio, dan Media Sosial**. Dataset yang digunakan berisi data pengeluaran pemasaran dan jumlah pelanggan yang diperoleh.
@@ -25,8 +25,6 @@ Model ini melalui beberapa tahapan berikut:
 4. Melatih **model Regresi Linear** menggunakan Scikit-Learn.
 5. Mengevaluasi performa model menggunakan metrik berikut:
    - **Mean Absolute Error (MAE)**
-   - **Mean Squared Error (MSE)**
-   - **Root Mean Squared Error (RMSE)**
    - **R² Score**
 
 ## 🚀 Cara Menjalankan Proyek
@@ -65,6 +63,7 @@ print(predictions)
 | MAE     | 24.73 |
 | R² Score | 0.97 |
 
+## 📈 Visualisasi Data
 ![Deskripsi Gambar](https://github.com/baloerrr04/sklearn-linear-regression-ads/blob/main/visualization.png)
 
 
