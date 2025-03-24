@@ -32,7 +32,7 @@ Model ini melalui beberapa tahapan berikut:
 ## 🚀 Cara Menjalankan Proyek
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/baloerrr04/sklearn-linear-regression-ads.git
    cd your-repo-name
    ```
 2. Instal dependensi yang diperlukan:
@@ -63,13 +63,14 @@ print(predictions)
 | Metrik  | Skor |
 |---------|-------|
 | MAE     | 24.73 |
-| MSE     | 814.28 |
-| RMSE    | 28.53 |
 | R² Score | 0.97 |
+
+![Deskripsi Gambar](path/gambar.png)
+
 
 ## 📜 Lisensi
 Proyek ini bersifat open-source dan tersedia di bawah lisensi **MIT**.
 
 ---
 **Penulis:** Nama Anda  
-**GitHub:** [Profil Anda](https://github.com/your-username)
+**GitHub:** [Profil Anda](https://github.com/baloerrr04)
